@@ -126,6 +126,7 @@ export default function Navbar() {
                  alt="منصة  المعرفة" 
                  className="w-16 h-16 md:w-20 md:h-20 object-contain group-hover:scale-110 transition-transform duration-300 dark:drop-shadow-[0_0_15px_rgba(255,255,255,0.3)] dark:group-hover:drop-shadow-[0_0_20px_rgba(255,255,255,0.5)]"
                />
+               <h3 className="text-lg font-bold text-green-600 dark:text-green-300">المعرفة</h3>
             </div>
           
           </Link>
